@@ -60,8 +60,15 @@ This is a **frontend-only project** and does not include backend or payment inte
 ---
 
 ## 📸 Preview
+<img width="959" height="418" alt="image" src="https://github.com/user-attachments/assets/f63d0cb1-1322-49a1-ad63-d7658bdda5e3" />
+<img width="959" height="472" alt="image" src="https://github.com/user-attachments/assets/a1629285-db0a-41e9-8794-abbded390888" />
+<img width="959" height="453" alt="image" src="https://github.com/user-attachments/assets/a256ea34-f714-4325-9b25-141e73d92caf" />
+<img width="947" height="474" alt="image" src="https://github.com/user-attachments/assets/5f4b3489-a136-4f10-8fdd-ec51a2ff1e20" />
 
-(You can add screenshots here)
+
+
+
+
 
 ---
 
